@@ -1,0 +1,8 @@
+This is a WIP utility which can notify or fetch mails from EE webmail :
+http://www.ee.iitb.ac.in/webmail/src/login.php
+
+Why I'm writing this?
+Because I failed to configure POP access to EE server from gmail . Tried many times! :(
+
+The crawling idea is built from the source of  Moodle-Sync app ny @anilshanbhag 
+It is available at https://github.com/anilshanbhag/Moodle-Sync/
